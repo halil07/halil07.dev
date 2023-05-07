@@ -1,0 +1,21 @@
+{
+  "tab": {
+    "posts": "Posts",
+    "snippets": "Snippets",
+    "projects": "Projects"
+  },
+  "intro": {
+    "title": "👋 Hi! I'm Halil",
+    "description": "I’m Halil Ceyhan, a Senior Frontend Developer, technical writer from Antalya TR.",
+    "link": "Take a Look"
+  },
+  "dateFormat": "MMM dd, yyyy",
+  "comment": {
+    "title": "Comments",
+    "btn": "Click to Comment",
+    "owner": "Author"
+  },
+  "projects": {
+    "title": "Projects"
+  }
+}

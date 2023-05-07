@@ -1,0 +1,21 @@
+{
+  "tab": {
+    "posts": "Gönderiler",
+    "snippets": "Kısa Çözümler",
+    "projects": "Projeler"
+  },
+  "intro": {
+    "title": "👋 Selam! Ben Halil",
+    "description": "bir Senior Frontend Developer",
+    "link": "Gönderiler"
+  },
+  "dateFormat": "MMM dd, yyyy",
+  "comment": {
+    "title": "Yorumlar",
+    "btn": "Yorum için tıklayın",
+    "owner": "Yazar"
+  },
+  "projects": {
+    "title": "Projeler"
+  }
+}

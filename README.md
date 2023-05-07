@@ -1,13 +1,22 @@
-# Astro + Solid.js Example
+# varHarrie's Blog
 
-```
-npm create astro@latest -- --template framework-solid
-```
+Personal blog site based on GitHub issues.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/framework-solid)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/framework-solid)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/framework-solid/devcontainer.json)
+## Features
 
-This example showcases Astro working with [Solid](https://www.solidjs.com/).
+- 💪 No need backend server
+- 📱 Mobile compatible
+- 🌙 Supports dark theme
+- 🌏 Supports i18n
+- ⚾︎ Integrates code playground
 
-Write your Solid components as `.jsx` or `.tsx` files in your project.
+## Getting started
+
+1. Clone the repository: `git clone https://github.com/varHarrie/varharrie.github.io.git`
+2. Install dependencies: `yarn`
+3. Rename .env.example to .env.local and Modify its content
+4. Start dev server: `yarn run dev`
+
+## License
+
+[MIT](./LICENSE)
