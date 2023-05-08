@@ -1,8 +1,6 @@
 # build output
 dist/
-# generated types
-.astro/
-
+.output/
 .idea/
 
 # dependencies
@@ -21,3 +19,9 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+
+# ignore .astro directory
+.astro
+
+# ignore Jampack cache files
+.jampack/
